@@ -1,0 +1,12 @@
+/dist/
+/target/
+/Cargo.lock
+/data/
+/static/tailwind.css
+
+/node_modules/
+/package-lock.json
+/Cargo.lock
+
+/.vscode/
+/.idea/
